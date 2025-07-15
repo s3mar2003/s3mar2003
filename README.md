@@ -1,7 +1,8 @@
 <div align="center" width="50">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br>
+<img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" alt="Welcome" width="60%" /> <br>
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Working" width="40%" /><br>
+
 
 <h1 align="center">Hi 👋 I'm Samar Moamer</h1>
 <h3 align="center">💻 Full Stack Developer in Training | Passionate about coding & UI</h3>
