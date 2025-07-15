@@ -1,6 +1,6 @@
 <div align="center" width="50">
 
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Working" width="40%" /><br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
 
 
 <h1 align="center">Hi 👋 I'm Samar Moamer</h1>
