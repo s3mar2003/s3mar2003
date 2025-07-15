@@ -1,6 +1,5 @@
 <div align="center" width="50">
 
-<img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" alt="Welcome" width="60%" /> <br>
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Working" width="40%" /><br>
 
 
